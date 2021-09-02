@@ -3,3 +3,6 @@ Project for a moving company, developed in HTML, CSS and JS, with quote page and
 
 # Checked
 The control of the tasks will be done on github projects
+
+# Updates
+- Website structure done
