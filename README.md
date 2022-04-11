@@ -1,8 +1,6 @@
-# ELP-Movers
-Project for a moving company, developed in HTML, CSS and JS, with quote page and form with method post, sending quote and ''contact me'' directly by email
+# APROVEITEM BICHARADA 
+MATÉRIA COMPLETA DO MAGRIM
 
-# Checked
-The control of the tasks will be done on github projects
+SAUDAÇÕES DA SISTEMÁTICA E SEU VETERANO E DIRETOR DE MARKETING GABRIEL
 
-# Updates
-- Website structure done
+## BEIJO NA BUNDA E ATÉ SEGUNDA (QUE VEM!)
