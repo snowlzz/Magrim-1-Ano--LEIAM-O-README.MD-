@@ -4,3 +4,9 @@
 ## SAUDAÇÕES DA SISTEMÁTICA E SEU VETERANO E DIRETOR DE MARKETING GABRIEL
 
 ## BEIJO NA BUNDA E ATÉ SEGUNDA (QUE VEM!)
+
+
+Ordem:
+Sequencial: 1º Período
+Condicional: 1º Período
+Laboratório: 2º Período 
