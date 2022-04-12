@@ -6,7 +6,7 @@
 ## BEIJO NA BUNDA E ATÉ SEGUNDA (QUE VEM!)
 
 
-Ordem:
-Sequencial: 1º Período
-Condicional: 1º Período
-Laboratório: 2º Período 
+Ordem:<br>
+Sequencial: 1º Período<br>
+Condicional: 1º Período<br>
+Laboratório: 2º Período <br>
